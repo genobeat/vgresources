@@ -2,7 +2,7 @@
 Video Game resources available online.
 
 Animal Crossing
-Pattern Tool - [https://acpatterns.com/](url)
+Pattern Tool - [https://acpatterns.com/]([url)](https://acpatterns.com/)
 * Create and edit patterns for both New Leaf and New Horizons.
 
 Save Editor - [https://www.marcrobledo.com/acnl-editor/](url)
